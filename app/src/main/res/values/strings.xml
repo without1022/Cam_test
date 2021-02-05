@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">camTest</string>
+    <string name="no_cam">"Can't found any cam"</string>
+    <string name="preview">Preview</string>
+</resources>
