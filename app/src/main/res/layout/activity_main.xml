@@ -11,6 +11,24 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
+<!--        <com.example.myapplication.view.CamPreview-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="198dp"-->
+<!--            app:cam_id="0">-->
+<!--        </com.example.myapplication.view.CamPreview>-->
+
+<!--        <com.example.myapplication.view.CamPreview-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="198dp"-->
+<!--            app:cam_id="1">-->
+<!--        </com.example.myapplication.view.CamPreview>-->
+
+<!--        <com.example.myapplication.view.CamPreview-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="198dp"-->
+<!--            app:cam_id="2">-->
+<!--        </com.example.myapplication.view.CamPreview>-->
+
         <TextureView
             android:id="@+id/textureView"
             android:layout_width="match_parent"
@@ -19,12 +37,12 @@
         <TextureView
             android:id="@+id/textureView2"
             android:layout_width="match_parent"
-            android:layout_height="192dp" />
+            android:layout_height="198dp" />
 
         <TextureView
             android:id="@+id/textureView3"
             android:layout_width="match_parent"
-            android:layout_height="176dp" />
+            android:layout_height="198dp" />
 
         <LinearLayout
             android:id="@+id/buttonLinear"
